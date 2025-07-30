@@ -7,6 +7,7 @@ body {
 }
 
 header {
+  text-align: center;
   background-color: #007acc;
   color: white;
   padding: 20px;
@@ -15,6 +16,7 @@ header {
 
 h1, h2 {
   margin-top: 0;
+  text-align: center;
 }
 
 section {
@@ -23,6 +25,10 @@ section {
   background-color: #ffffff;
   border: 1px solid #ccc;
   border-radius: 6px;
+}
+
+#s1{
+  text-align: center;
 }
 
 img {
